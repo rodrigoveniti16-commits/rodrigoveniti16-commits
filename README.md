@@ -1,6 +1,6 @@
 <div align="center">
 
-![Rodrigo Veniti — Ninja Renegado da Tecnologia](assets/banner.svg)
+![Rodrigo Veniti — Ninja Renegado da Tecnologia](assets/banner.png)
 
 </div>
 
