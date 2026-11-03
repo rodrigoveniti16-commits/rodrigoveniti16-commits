@@ -12,7 +12,7 @@
 
 </div>
 
-> *"Troquei o expediente administrativo pelo caminho do código. Meu objetivo é claro: evoluir até trabalhar com Inteligência Artificial."*
+> *"Do expediente administrativo ao caminho do código. Meu objetivo é claro: evoluir até trabalhar com Inteligência Artificial."*
 
 ---
 
@@ -32,13 +32,7 @@
 
 ![Galeria do Clã](assets/galeria.svg)
 
-<!--
-GALERIA: salve suas fan arts na pasta assets/fanart/ e tire as setas
-deste comentário para ativar. Exemplo:
-
-<img src="assets/fanart/itachi-1.jpg" width="400">
-<img src="assets/fanart/itachi-2.jpg" width="400">
--->
+<img src="assets/fanart/itachi-1.jpeg" width="450">
 
 </div>
 
